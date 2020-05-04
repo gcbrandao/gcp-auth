@@ -1,0 +1,5 @@
+google:
+  cloud:
+    connection-timeout: 60000
+    read-timeout: 60000
+    security-key-file: services-exp-labs-272718-9ee5283d3edc.json
